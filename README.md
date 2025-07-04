@@ -1,10 +1,10 @@
 ## Hey there 👋
 
-- ✈ I'm an aerospace graduate student interested in airbreathing propulsion performance analysis and design.
+- ✈ I'm an aerospace graduate student interested in airbreathing propulsion performance analysis & design.
 
-- 🔥 I'm currently modeling GE's F404 engine using pyCycle, with hopes to replicate its real performance and validate it in NPSS.
+- 🔥 I'm currently modeling GE's F404 engine using pyCycle, with hopes to replicate its real performance & validate it in NPSS.
 
-- ⚡ I'm also a structures engineer in the nuclear industry.
+- ⚡ I also analyze complex structures in PWR nuclear plants.
 
 Happy to connect!
 
