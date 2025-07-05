@@ -4,7 +4,7 @@
 
 - 🔥 I'm currently modeling GE's F404 engine using pyCycle, with hopes to replicate its real performance & validate it in NPSS.
 
-- ⚡ I also analyze complex structures in PWR nuclear plants.
+- ⚡ I also analyze structural components in PWR nuclear plants.
 
 Happy to connect!
 
