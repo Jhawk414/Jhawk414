@@ -2,7 +2,7 @@
 
 - ✈ I'm an aerospace grad student interested in airbreathing propulsion design.
 
-- 🔥 I'm currently modeling GE's F404 engine using pyCycle, with hopes to replicate its real performance & validate it in NPSS.
+- 🔥 I'm currently modeling GE's F404 engine using pyCycle.
 
 - ⚡ I also analyze structural components in PWR nuclear plants.
 
