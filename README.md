@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-- ✈ I'm an aerospace grad student interested in airbreathing propulsion design.
+- ✈ I'm an aerospace grad student interested in all things gas-turbines.
 
 - 🔥 I'm currently modeling GE's F404 engine using pyCycle.
 
