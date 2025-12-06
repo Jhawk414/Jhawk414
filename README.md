@@ -4,8 +4,6 @@
 
 - 🔥 I'm currently modeling GE's F404 engine using pyCycle.
 
-- ⚡ I also analyze large structural components in PWR nuclear plants.
-
 Happy to connect!
 
 <!--
