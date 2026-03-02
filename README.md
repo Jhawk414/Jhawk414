@@ -2,10 +2,6 @@
 
 - ✈ I'm an aerospace grad student interested in all things gas-turbines.
 
-- 🔥 I'm currently modeling GE's F404 engine using pyCycle.
-
-Happy to connect!
-
 <!--
 **Jhawk414/Jhawk414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
