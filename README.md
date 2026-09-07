@@ -1,6 +1,8 @@
 ## Hey there 👋
 
-- ✈ I'm an aerospace grad student interested gas-turbines.
+- ✈ I'm an aerospace grad student interested in gas-turbines.
+- My background is in structural analysis of highly-loaded components (pressure vessels, turbomachines)
+- I'm working intermittently on a performance model of GE's F404 engine (the F-18 powerplant) 
 
 <!--
 **Jhawk414/Jhawk414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
