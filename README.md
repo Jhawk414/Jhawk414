@@ -1,7 +1,7 @@
 ## Hey there 👋
 
 - ✈ I'm an aerospace grad student interested in gas-turbines.
-- My background is in structural analysis of highly-loaded components (pressure vessels, turbomachines)
+- My background is in structural analysis of highly-loaded components (pressure vessels, turbomachinery)
 - I'm working intermittently on a performance model of GE's F404 engine (the F-18 powerplant) 
 
 <!--
